@@ -52,10 +52,23 @@ a:link, a:visited {
     float: right;
 }
 
+
+#rodape {
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background: #ccc;
+}
 .postagem {
     padding: 20px;
     margin-bottom: 20px;
     background: white;
+}
+
+.postagem-lateral {
+    font-size: 0.8em;
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
 }
 
 .data-postagem {
